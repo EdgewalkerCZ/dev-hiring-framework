@@ -37,4 +37,6 @@ During interview we need to check few things:
 
 As for CV, we should focus on buzzwords and check if they are in CV just for a show or if candidate show genuine interests in the topic. For coding skill, we can ask him about some choices he made during the programming test and programming project. If someone else has done the work, it will be more than possible that candidate will not be able to justify his choices.
 
-As for theoretical knowledge and Q/A section of the interview, we should use standardized questionnaire that will help us to judge candidates as objectively as possible and that will provide us with some standardized interview score that will we will be able to compare with score of other candidates.  
+As for theoretical knowledge and Q/A section of the interview, we should use standardized questionnaire that will help us to judge candidates as objectively as possible and that will provide us with some standardized interview score that will we will be able to compare with score of other candidates.
+
+Something like this: [Excel Interview Helper](/interviews/Interview_list_questions_flutter.xlsx)  
