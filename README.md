@@ -23,6 +23,9 @@ Beyond what we specified as required and secondarily what we specified as bonus,
 ### Filter #2 - Automated Programming Test
 For Flutter developer tests we will utilize the capabilities of Dart pad which can be embedded on our website and prefilled with some code, guidelines and can include tests.
 
+#### Examples:
+[Easy Flutter Exercise](/programming_exercises/examples/flutter-test.md)
+
 ### Filter #3 - Take-home Project
 Last filter is take-home project that will show us in depth how well can candidate develop a Flutter application. Project cannot be large and must be possible to complete within two days or we can set constant time to finish - a week including weekend. That should be plenty of time even for candidates that are still employed.
 
